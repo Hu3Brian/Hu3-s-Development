@@ -1,2 +1,2 @@
-# My-own-buid-x-repository
-Here's a generic repository.
+# First project repository
+Here's a my first repository using Git, getting familiar with the many resources of it.
